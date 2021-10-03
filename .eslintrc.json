@@ -10,8 +10,11 @@
     "linebreak-style": 0,
     "max-classes-per-file": 0,
     "class-methods-use-this": "off",
+    "import/prefer-default-export": "off",
     "no-unused-expressions": "off",
+    "no-unused-vars": "off",
     "no-plusplus": "off",
+    "no-console": "off",
     "one-var": 0
   }
 }
